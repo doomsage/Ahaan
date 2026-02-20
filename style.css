@@ -27,12 +27,12 @@ body{
   padding:100px 20px;
 }
 .merit{
-  width:250px;
-  height:150px;
+  width:350px;
+  height:210px;
   object-fit:cover;
+  align-items:center;
   box-shadow:0 10px 25px rgba(0,0,0,0.02);
 }
-
 
 .profile-pic{
   width:150px;
