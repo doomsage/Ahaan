@@ -93,3 +93,14 @@ counters.forEach(counter=>{
   update();
 
 });
+window.addEventListener('load', () => {
+  const loader = document.getElementById('bootloader');
+  
+  // 2.5 seconds ka delay taaki animation poora dikhe
+  setTimeout(() => {
+    loader.style.opacity = '0';
+    setTimeout(() => {
+      loader.style.display = 'none';
+    }, 500);
+  }, 2500); 
+});
