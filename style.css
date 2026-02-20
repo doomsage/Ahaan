@@ -27,8 +27,8 @@ body{
   padding:100px 20px;
 }
 .merit{
-  width:350px;
-  height:210px;
+  width:700px;
+  height:520px;
   object-fit:cover;
   align-items:center;
   box-shadow:0 10px 25px rgba(0,0,0,0.02);
