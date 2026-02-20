@@ -102,5 +102,5 @@ window.addEventListener('load', () => {
     setTimeout(() => {
       loader.style.display = 'none';
     }, 500);
-  }, 2500); 
+  }, 7000); 
 });
